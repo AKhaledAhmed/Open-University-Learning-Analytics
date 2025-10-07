@@ -159,7 +159,7 @@ The analysis yielded several key insights into student success:
 To replicate the Python analysis in `project.ipynb`, install the required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly
+pip install pandas numpy matplotlib seaborn plotly sqlite3
 ```
 
 **Note:** The Power BI dashboards require the Power BI Desktop application and the connection to the analyzed data files. Ensure all original OULAD CSV files are in the same directory as the Jupyter Notebook for smooth execution.
